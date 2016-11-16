@@ -2,7 +2,7 @@
     "name": "gkimball/img2pdf",
     "description": "convert an image into a printable pdf file using a custom stylesheet..",
     "type": "project",
-    "require-dev": {
+    "require": {
         "dompdf/dompdf": "^0.7.0"
     },
     "authors": [
