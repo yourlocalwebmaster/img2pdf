@@ -1,0 +1,15 @@
+{
+    "name": "gkimball/img2pdf",
+    "description": "convert an image into a printable pdf file using a custom stylesheet..",
+    "type": "project",
+    "require-dev": {
+        "dompdf/dompdf": "^0.7.0"
+    },
+    "authors": [
+        {
+            "name": "Grant Kimball",
+            "email": "grant.kimball@audacityhealth.com"
+        }
+    ],
+    "require": {}
+}
